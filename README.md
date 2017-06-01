@@ -22,7 +22,7 @@ Please make sure that you are using the latest version  of the third party libra
 [jQuery](https://cdnjs.com/libraries/jquery/),
 [dotdotdot](http://dotdotdot.frebsite.nl/)
 
-##Description
+## Description
 
 *Science Fiction Magazines Blog template* consists of 3 logical elements: **header**, **content section**, **footer**.
 The **header** contains the main navigation elements used as paging. And no matter how this template is created (through CMS or the web framework), you can easily customize the navigation to the previous and next articles by using the following blocks:
@@ -43,20 +43,20 @@ In contrast to the `"slides-counter"` block, the `"slider-indicators"` block loc
 
 In order to customize the template, we recommend to use the `"site.js"` file for scripts and `"style.css"` - for the stylesheet.
 
-##Demo
+## Demo
 [https://agilie.github.io/science-fiction-magazines-blog/](https://agilie.github.io/science-fiction-magazines-blog/)
 
-##Troubleshooting
+## Troubleshooting
 Problems? Check the Issues block to find the solution or create an [new issue](https://github.com/agilie/science-fiction-magazines-blog/issues) that we will fix asap. Feel free to contribute.
 
-##Author
-This template is open-sourced by [Agilie Team](https://agilie.com/en/index) [info@agilie.com](<a href="mailto:info@agilie.com">info@agilie.com</a>)
+## Author
+This template is open-sourced by [Agilie Team](https://agilie.com/en/index) <a href="mailto:info@agilie.com">info@agilie.com</a>
 
-##Contributors
-[Tatiana Kushnir](https://github.com/tatiana-kushnir-89) - [tatiana.kushnir@agilie.com](<a href="mailto:tatiana.kushnir@agilie.com">tatiana.kushnir@agilie.com</a>)
+## Contributors
+[Tatiana Kushnir](https://github.com/tatiana-kushnir-89) - <a href="mailto:tatiana.kushnir@agilie.com">tatiana.kushnir@agilie.com</a>
 
-##License
+## License
 
-The [MIT](<a href="/agilie/Bouncing-Carousel/blob/master/LICENSE.MD">MIT</a>) License (MIT) Copyright © 2017 [Agilie Team](https://agilie.com/en/index)
+The <a href="/agilie/Bouncing-Carousel/blob/master/LICENSE.MD">MIT</a> License (MIT) Copyright © 2017 [Agilie Team](https://agilie.com/en/index)
 
 
