@@ -17,10 +17,13 @@ Connecting the main css and fonts in `<head>`:
 ```javascript
 <link href="https://fonts.googleapis.com/css?family=Righteous" rel="stylesheet">
 ```
-
-`<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">`
-
-`<link rel="stylesheet" href="css/style.css">`  <—- main stylesheet
+```javascript
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
+```
+```javascript
+<!--main css-->
+<link rel="stylesheet" href="css/style.css"> 
+ ``` 
 
 Please make sure that you are using the latest version  of the third party libraries:
 [jQuery](https://cdnjs.com/libraries/jquery/),
@@ -31,9 +34,14 @@ Please make sure that you are using the latest version  of the third party libra
 *Science Fiction Magazines Blog template* consists of 3 logical elements: **header**, **content section**, **footer**.
 The **header** contains the main navigation elements used as paging. And no matter how this template is created (through CMS or the web framework), you can easily customize the navigation to the previous and next articles by using the following blocks:
 
-`<nav class="navigation-block left">` - the previous page
-
-`<nav class="navigation-block right”>` - the next page
+```javascript
+<!-- previous page -->
+<nav class="navigation-block left">
+```
+```javascript
+<!-- next page -->
+<nav class="navigation-block right”>
+```
 
 There is also the main menu in the header, where you can place any links to external resources, or create additional pages on the example of the basic blog page.
 
