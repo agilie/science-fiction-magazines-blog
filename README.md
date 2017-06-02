@@ -1,4 +1,4 @@
-# Science Fiction Magazines blog
+# Science Fiction Magazines blog HTML Template
 
 Hi, guys!
 
