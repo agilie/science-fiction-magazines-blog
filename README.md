@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/agilie/Rails-Application-Template)
+
 # Science Fiction Magazines blog HTML Template
 
 Hi, guys!
@@ -12,7 +14,9 @@ Our template uses the following fonts:
 
 Connecting the main css and fonts in `<head>`:
 
-`<link href="https://fonts.googleapis.com/css?family=Righteous" rel="stylesheet">`
+```javascript
+<link href="https://fonts.googleapis.com/css?family=Righteous" rel="stylesheet">
+```
 
 `<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">`
 
