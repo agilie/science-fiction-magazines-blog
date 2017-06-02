@@ -40,7 +40,7 @@ The **header** contains the main navigation elements used as paging. And no matt
 ```
 ```javascript
 <!-- next page -->
-<nav class="navigation-block right”>...</nav>
+<nav class="navigation-block right">...</nav>
 ```
 
 There is also the main menu in the header, where you can place any links to external resources, or create additional pages on the example of the basic blog page.
