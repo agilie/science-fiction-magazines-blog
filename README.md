@@ -1,3 +1,5 @@
+Check this project on [Dribbble](https://dribbble.com/shots/3453444-Blog).
+
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/agilie/Rails-Application-Template)
 
 # Science Fiction Magazines blog HTML Template
@@ -65,7 +67,12 @@ Problems? Check the Issues block to find the solution or create an [new issue](h
 This template is open-sourced by [Agilie Team](https://agilie.com/en/index) <a href="mailto:info@agilie.com">info@agilie.com</a>
 
 ## Contributors
-[Tatiana Kushnir](https://github.com/tatiana-kushnir-89) - <a href="mailto:tatiana.kushnir@agilie.com">tatiana.kushnir@agilie.com</a>
+[Tatiana Kushnir](https://github.com/tatiana-kushnir-89)
+
+## Contact us
+If you have any questions, suggestions or just need a help with web or mobile development, please email us at <web@agilie.com>. You can ask us anything from basic to complex questions.
+
+We will continue publishing new open-source projects. Stay with us, more updates will follow!
 
 ## License
 
